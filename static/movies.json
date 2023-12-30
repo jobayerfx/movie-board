@@ -1,0 +1,64 @@
+{
+    "movies" : [
+        {
+            "id": 1,
+            "name": "Titanic",
+            "status": 0,
+            "review": ""
+        },
+        {
+            "id": 2,
+            "name": "Iron Man",
+            "status": 0,
+            "review": ""
+        },    
+        {
+            "id": 3,
+            "name": "Superman",
+            "status": 0,
+            "review": ""
+        },
+        {
+            "id": 4,
+            "name": "Avatar",
+            "status": 1,
+            "review": ""
+        },
+        {
+            "id": 5,
+            "name": "Interstellar",
+            "status": 2,
+            "review": ""
+        },
+        {
+            "id": 6,
+            "name": "Glass House",
+            "status": 0,
+            "review": ""
+        },
+        {
+            "id": 7,
+            "name": "Inception",
+            "status": 1,
+            "review": ""
+        },
+        {
+            "id": 8,
+            "name": "The Dark Knight",
+            "status": 1,
+            "review": ""
+        },
+        {
+            "id": 9,
+            "name": "X-Men Origins",
+            "status": 0,
+            "review": ""
+        },
+        {
+            "id": 10,
+            "name": "The Wolverine",
+            "status": 0,
+            "review": ""
+        }
+    ]
+}
